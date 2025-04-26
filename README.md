@@ -36,11 +36,6 @@ This project presents an end-to-end analysis of a pizza sales dataset using SQL 
 
 ---
 
-## 📊 Power BI Dashboard Preview
-> *(Add a screenshot of your Power BI dashboard here)*
-
----
-
 ## ✅ How to Run
 1. Clone the repository:
 ```
